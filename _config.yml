@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+baseurl: "/Webseite" # the subpath of your site, e.g. /blog
 
 title      : Leo Alexander Grünwald
 email      : leo.alexander@gmx.de #this is also the email contact forms will go to
