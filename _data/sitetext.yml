@@ -133,7 +133,7 @@ de: &DEFAULT_DE
   contact:
     title: "Sie möchten mehr über mich erfahren?"
     text: "Hinterlassen Sie mir doch eine Nachricht."
-    section: Kontakt
+    section: contact
     name: "Name*"
     name-validation: "Geben Sie einen Namen ein."
     email: "E-Mail*"
