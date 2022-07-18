@@ -138,8 +138,6 @@ de: &DEFAULT_DE
     name-validation: "Geben Sie einen Namen ein."
     email: "E-Mail*"
     email-validation: "Geben Sie Ihre E-Mail-Addresse an."
-    phone: "Telefonnummer"
-    phone-validation: "Geben Sie Ihre Telefonnummer ein."
     message: "Ihre Nachricht...*"
     message-validation: "Geben Sie etwas ein..."
     subject: "Abschicken"
