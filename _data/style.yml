@@ -3,6 +3,6 @@
 #white: "#ffff00"
 #black: "#0000ff"
 
-#Image Customization
-header-image: "../img/header-bg.jpg"
-contact-image: "../img/map-image.png"
+#Hintergründe
+header-image: "../img/header-bg.jpg" #Hintergrund Header
+contact-image: "../img/map-image.png" #Hintergrund Kontakt
