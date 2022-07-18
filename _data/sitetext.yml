@@ -131,19 +131,19 @@ de: &DEFAULT_DE
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
+    title: "Sie möchten mehr über mich erfahren?"
+    text: "Hinterlassen Sie mir doch eine Nachricht."
+    section: Kontakt
     name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    name-validation: "Geben Sie einen Namen ein."
+    email: "E-Mail*"
+    email-validation: "Geben Sie Ihre E-Mail-Addresse an."
+    phone: "Telefonnummer"
+    phone-validation: "Geben Sie Ihre Telefonnummer ein."
+    message: "Ihre Nachricht...*"
+    message-validation: "Geben Sie etwas ein..."
+    subject: "Abschicken"
+    submit: "Absenden"
 
   footer:
     legal: "Privacy Policy"
