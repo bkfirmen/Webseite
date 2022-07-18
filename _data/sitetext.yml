@@ -20,7 +20,7 @@ de: &DEFAULT_DE
   services:
     title: "Kurz & Knapp"
     text: "Was mich ausmacht."
-    section: kurz_und_knapp
+    section: services
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -41,7 +41,7 @@ de: &DEFAULT_DE
   timeline:
     title: "Lebenslauf"
     text: "Was ich bisher gemacht habe."
-    section: lebenslauf
+    section: timeline
     # left is the default
     #start_align: "left"
     events:
@@ -73,7 +73,7 @@ de: &DEFAULT_DE
     title: "Über mich"
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: ueber
+    section: about
 
   clients:
     section: clients
