@@ -8,7 +8,7 @@
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
 
-# English (default)
+# Deutsch
 # -----------------
 de: &DEFAULT_DE
   header:
@@ -38,7 +38,7 @@ de: &DEFAULT_DE
     section: portfolio
     closebutton: "Seite schließen"
 
-  lebenslauf:
+  timeline:
     title: "Lebenslauf"
     text: "Was ich bisher gemacht habe."
     section: lebenslauf
@@ -69,7 +69,7 @@ de: &DEFAULT_DE
         align: right
     end: "Es kommt <br> noch mehr!"
 
-  ueber:
+  about:
     title: "Über mich"
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
