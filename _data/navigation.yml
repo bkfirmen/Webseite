@@ -23,7 +23,7 @@ de: &DEFAULT_DE
       section: team
     - title: "Kontakt"
       section: contact
-    - title: "Theme Source"
+    - title: "Link"
       url: https://github.com/raviriley/agency-jekyll-theme/
 
 # English (default)
