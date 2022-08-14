@@ -71,8 +71,8 @@ de: &DEFAULT_DE
 
   about:
     title: "Über mich"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: ""
+    body: "Hallo, ich bin Leo Alexander Grünwald. Ich bin 17 Jahre alt und gehe auf das Bertha-von-Suttner-Gymnasium in Babelsberg."
     section: about
 
   clients:
