@@ -26,7 +26,7 @@ de: &DEFAULT_DE
         desc: "Ich gehe regelmäßig bei der Wasserwacht schwimmen."
         icon: fas fa-person-swimming #find more at https://fontawesome.com/icons
       - title: "Pfadfinden"
-        desc: "Seit 2018 bin ich Teil des Stammes "Alanen" im BdP. Ich verwalte dort die Kasse und bin zudem Gruppenleiter."
+        desc: "Seit 2018 bin ich Teil des Stammes Alanen im BdP. Ich verwalte dort die Kasse und bin zudem Gruppenleiter."
         icon: fas fa-campfire
       - title: "[](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
@@ -67,7 +67,7 @@ de: &DEFAULT_DE
   about:
     title: "Über mich"
     text: ""
-    body: "Hallo, ich bin Leo Alexander Grünwald. Ich bin 17 Jahre alt und gehe auf das Bertha-von-Suttner-Gymnasium in Babelsberg."
+    body: "Hallo, ich bin Leo Alexander Grünwald. Ich bin 17 Jahre alt und gehe auf das Bertha-von-Suttner-Gymnasium in Babelsberg. Dort strebe ich zurzeit das Abitur an, was ich vorraussichtlich 2023 abschließen werde. Zudem bin ich aktives Mitglied der Schülerzeitung Berthas Echo, welche ich mit (neu)gegründet habe. "
     section: about
 
   clients:
