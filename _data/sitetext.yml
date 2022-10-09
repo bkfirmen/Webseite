@@ -23,12 +23,12 @@ de: &DEFAULT_DE
     section: services
     list:
       - title: "Schwimmen"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas person-swimming #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Ich gehe regelmäßig bei der Wasserwacht schwimmen."
+        icon: fas fa-person-swimming #find more at https://fontawesome.com/icons
+      - title: "Pfadfinden"
+        desc: "Seit 2018 bin ich Teil des Stammes "Alanen" im BdP. Ich verwalte dort die Kasse und bin zudem Gruppenleiter."
+        icon: fas fa-campfire
+      - title: "[](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
