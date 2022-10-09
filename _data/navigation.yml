@@ -11,20 +11,16 @@
 # -----------------
 de: &DEFAULT_DE
   nav:
-    - title: "Was ich kann"
-      section: services
     - title: "Was ich mache"
-      section: portfolio
+      section: services
     - title: "Über mich"
       section: about
     - title: "Lebenslauf"
       section: timeline
-    - title: "Team"
-      section: team
     - title: "Kontakt"
       section: contact
-    - title: "Link"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+#    - title: "Link"
+#      url: https://github.com/raviriley/agency-jekyll-theme/
 
 # English (default)
 # -----------------
