@@ -24,7 +24,7 @@ de: &DEFAULT_DE
     list:
       - title: "Schwimmen"
         desc: "Ich gehe regelmäßig bei der Wasserwacht schwimmen."
-        icon: fas fa-swimmmer #find more at https://fontawesome.com/icons
+        icon: fas fa-water #find more at https://fontawesome.com/icons
       - title: "Pfadfinden"
         desc: "Seit 2018 bin ich Teil des Stammes Alanen im BdP. Ich verwalte dort die Kasse und bin zudem Gruppenleiter."
         icon: fas fa-fire
@@ -67,7 +67,7 @@ de: &DEFAULT_DE
   about:
     title: "Über mich"
     text: ""
-    body: "Hallo, ich bin Leo Alexander Grünwald. Ich bin 17 Jahre alt und gehe auf das Bertha-von-Suttner-Gymnasium in Babelsberg. Dort strebe ich zurzeit das Abitur an, was ich vorraussichtlich 2023 abschließen werde. Zudem bin ich aktives Mitglied der Schülerzeitung Berthas Echo, welche ich mit (neu)gegründet habe. "
+    body: "Hallo, ich bin Leo Alexander Grünwald. Ich bin 17 Jahre alt und gehe auf das Bertha-von-Suttner-Gymnasium in Babelsberg. Dort strebe ich zurzeit das Abitur an, was ich vorraussichtlich 2023 abschließen werde. Zudem bin ich aktives Mitglied der Schülerzeitung Berthas Echo, welche ich mit (neu)gegründet habe. Ich war dort auch von 2020 bis 2022 als Chefredakteur tätig, habe mcih nun jedoch aufgrund meines anstehenden Abschlusses zurückgezogen."
     section: about
 
   clients:
