@@ -15,7 +15,7 @@ de: &DEFAULT_DE
     title: Willkommen auf meiner Webseite!
     text: test
     button: Erzähl mir mehr!
-    buttonlink: "#portfolio"
+    buttonlink: "#about"
 
   services:
     title: "Kurz & Knapp"
@@ -24,12 +24,12 @@ de: &DEFAULT_DE
     list:
       - title: "Schwimmen"
         desc: "Ich gehe regelmäßig bei der Wasserwacht schwimmen."
-        icon: fas fa-water #find more at https://fontawesome.com/icons
+        icon: fas fa-swimmer #find more at https://fontawesome.com/v5/
       - title: "Pfadfinden"
-        desc: "Seit 2018 bin ich Teil des Stammes Alanen im BdP. Ich verwalte dort die Kasse und bin zudem Gruppenleiter."
+        desc: "Seit 2018 bin ich Teil des Stammes Alanen im BdP (Bund der Pfadfinderinnen und Pfadfinder). Ich verwalte dort die Kasse und bin zudem Gruppenleiter."
         icon: fas fa-fire
       - title: "[Schülerzeitung](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+        desc: "2020 habe ich die Schülerzeitung Berthas Echo an meiner Schule mit zwei Anderen neugegründet. Bis Mitte 2022 war ich dort Chefredakteur und trotz Corona-Pandemie sind 3 Ausgaben erschienen."
         icon: fas fa-newspaper
 
   portfolio:
@@ -67,7 +67,8 @@ de: &DEFAULT_DE
   about:
     title: "Über mich"
     text: ""
-    body: "Hallo, ich bin Leo Alexander Grünwald. Ich bin 17 Jahre alt und gehe auf das Bertha-von-Suttner-Gymnasium in Babelsberg. Dort strebe ich zurzeit das Abitur an, was ich vorraussichtlich 2023 abschließen werde. Zudem bin ich aktives Mitglied der Schülerzeitung Berthas Echo, welche ich mit (neu)gegründet habe. Ich war dort auch von 2020 bis 2022 als Chefredakteur tätig, habe mcih nun jedoch aufgrund meines anstehenden Abschlusses zurückgezogen."
+    body: "Hallo, ich bin Leo Alexander Grünwald. Ich bin 17 Jahre alt und gehe auf das Bertha-von-Suttner-Gymnasium in Babelsberg. Dort strebe ich zurzeit das Abitur an, was ich vorraussichtlich 2023 abschließen werde. Zudem bin ich aktives Mitglied der Schülerzeitung Berthas Echo, welche ich mit (neu)gegründet habe. Ich war dort auch von 2020 bis 2022 als Chefredakteur tätig, habe mich nun jedoch aufgrund meines anstehenden Abschlusses zurückgezogen.
+    In meiner Freizeit bin ich außerdem beim lokalen Pfadfinderstamm tätig, wo ich für die Kasse verantwortlich bin und sogar eine eigene Gruppe leite. Ich gehe jede Woche schwimmen bei der Wasserwacht."
     section: about
 
   clients:
