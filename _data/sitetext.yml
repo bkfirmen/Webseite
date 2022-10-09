@@ -24,13 +24,13 @@ de: &DEFAULT_DE
     list:
       - title: "Schwimmen"
         desc: "Ich gehe regelmäßig bei der Wasserwacht schwimmen."
-        icon: fa-solid fa-person-swimming #find more at https://fontawesome.com/icons
+        icon: fas fa-person-swimming #find more at https://fontawesome.com/icons
       - title: "Pfadfinden"
         desc: "Seit 2018 bin ich Teil des Stammes Alanen im BdP. Ich verwalte dort die Kasse und bin zudem Gruppenleiter."
-        icon: fa-solid fa-campfire
-      - title: "[](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fas fa-campfire
+      - title: "[Schülerzeitung](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fas fa-newspaper
 
   portfolio:
     title: "Portfolio"
