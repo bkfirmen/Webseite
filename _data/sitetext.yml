@@ -19,12 +19,12 @@ de: &DEFAULT_DE
 
   services:
     title: "Kurz & Knapp"
-    text: "Was mich ausmacht."
+    text: "Was ich mache."
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Schwimmen"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-person-swimming #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
