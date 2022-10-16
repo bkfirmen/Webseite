@@ -18,7 +18,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "/Webseite" # the subpath of your site, e.g. /blog
 
 title      : Leo Alexander Grünwald
-email      : leo.alexander@gmx.de #this is also the email contact forms will go to
+email      : #this is also the email contact forms will go to
 description: "Die persönliche Webseite von Leo Alexander Grünwald."
 author     : Leo Alexander Grünwald
 # logo:     #optional, defaults to site title
