@@ -28,8 +28,8 @@ de: &DEFAULT_DE
       - title: "Pfadfinden"
         desc: "Seit 2018 bin ich Teil des Stammes Alanen im BdP (Bund der Pfadfinderinnen und Pfadfinder). Ich verwalte dort die Kasse und bin zudem Gruppenleiter."
         icon: fas fa-fire
-      - title: "[Schülerzeitung](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "2020 habe ich die Schülerzeitung Berthas Echo an meiner Schule mit zwei Anderen neugegründet. Bis Mitte 2022 war ich dort Chefredakteur und trotz Corona-Pandemie sind 3 Ausgaben erschienen."
+      - title: "[Schülerzeitung](https://berthasecho.de)"
+        desc: "2020 habe ich die Schülerzeitung Berthas Echo an meiner Schule mit neugegründet. Bis Mitte 2022 war ich dort Chefredakteur und trotz Corona-Pandemie sind 3 Ausgaben erschienen."
         icon: fas fa-newspaper
 
 #  portfolio:
@@ -125,21 +125,21 @@ de: &DEFAULT_DE
 #            icon: fab fa-facebook-f
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
-
-  contact:
-    title: "Sie möchten mehr über mich erfahren?"
-    text: "Hinterlassen Sie mir doch eine Nachricht."
-    section: contact
-    name: "Name*"
-    name-validation: "Geben Sie einen Namen ein."
-    email: "E-Mail*"
-    email-validation: "Geben Sie Ihre E-Mail-Addresse an."
-    phone: "Telefonnummer"
-    phone-validation: "Bitte geben Sie Ihre Telefonnummer ein."
-    message: "Ihre Nachricht...*"
-    message-validation: "Geben Sie etwas ein..."
-    subject: "Abschicken"
-    submit: "Absenden"
+#
+#  contact:
+#    title: "Sie möchten mehr über mich erfahren?"
+#    text: "Hinterlassen Sie mir doch eine Nachricht."
+#    section: contact
+#    name: "Name*"
+#    name-validation: "Geben Sie einen Namen ein."
+#    email: "E-Mail*"
+#    email-validation: "Geben Sie Ihre E-Mail-Addresse an."
+#    phone: "Telefonnummer"
+#    phone-validation: "Bitte geben Sie Ihre Telefonnummer ein."
+#    message: "Ihre Nachricht...*"
+#    message-validation: "Geben Sie etwas ein..."
+#    subject: "Abschicken"
+#    submit: "Absenden"
 
   footer:
     legal: "Privacy Policy"
