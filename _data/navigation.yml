@@ -17,8 +17,8 @@ de: &DEFAULT_DE
       section: about
     - title: "Lebenslauf"
       section: timeline
-    - title: "Kontakt"
-      section: contact
+#    - title: "Kontakt"
+#      section: contact
 #    - title: "Link"
 #      url: https://github.com/raviriley/agency-jekyll-theme/
 
